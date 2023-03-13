@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityXUMMAPI", "UnityXUMMAPI.csproj", "{2063E288-E872-45DE-AD6D-87A491254BD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "..\SharedLibrary\SharedLibrary.csproj", "{A138AEBA-A77A-4891-922F-1681557FDFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Production|Any CPU = Production|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Development|Any CPU.Build.0 = Development|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Production|Any CPU.Build.0 = Production|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{2063E288-E872-45DE-AD6D-87A491254BD5}.Staging|Any CPU.Build.0 = Staging|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Development|Any CPU.Build.0 = Development|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Production|Any CPU.Build.0 = Release|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{A138AEBA-A77A-4891-922F-1681557FDFAB}.Staging|Any CPU.Build.0 = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31790DC8-5676-4555-87CF-775DA814EB21}
+	EndGlobalSection
+EndGlobal

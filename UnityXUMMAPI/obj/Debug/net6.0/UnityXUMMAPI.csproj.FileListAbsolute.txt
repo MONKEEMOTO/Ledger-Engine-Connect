@@ -1,0 +1,199 @@
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/appsettings.Development.json
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/appsettings.json
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.exe
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.deps.json
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.runtimeconfig.json
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.pdb
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.pdb
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.AssemblyReference.cache
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfoInputs.cache
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfo.cs
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CoreCompileInputs.cache
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cache
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.build.json
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.development.json
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/scopedcss/bundle/UnityXUMMAPI.styles.css
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CopyComplete
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/refint/UnityXUMMAPI.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.pdb
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.genruntimeconfig.cache
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/obj/Debug/net6.0/ref/UnityXUMMAPI.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+H:/Local Repos/KEE Studios/MichaelDeon/UnityXUMMAPI/bin/Debug/net6.0/XUMM.NET.SDK.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.AssemblyReference.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfoInputs.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfo.cs
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CoreCompileInputs.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/refint/UnityXUMMAPI.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.pdb
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.exe
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.deps.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.runtimeconfig.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.pdb
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/XUMM.NET.SDK.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.pdb
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/scopedcss/bundle/UnityXUMMAPI.styles.css
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CopyComplete
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.genruntimeconfig.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/ref/UnityXUMMAPI.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/appsettings.Development.json
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/appsettings.json
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.exe
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.deps.json
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.runtimeconfig.json
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.pdb
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/XUMM.NET.SDK.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.pdb
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.AssemblyReference.cache
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfoInputs.cache
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfo.cs
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CoreCompileInputs.cache
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cache
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.build.json
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.development.json
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/scopedcss/bundle/UnityXUMMAPI.styles.css
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CopyComplete
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/refint/UnityXUMMAPI.dll
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.pdb
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.genruntimeconfig.cache
+H:/GoogleDrive/KEE/REPO_Clients/Monkee/UnityXUMMAPI/obj/Debug/net6.0/ref/UnityXUMMAPI.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/appsettings.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.deps.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.runtimeconfig.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/UnityXUMMAPI.pdb
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/AustinHarris.JsonRpc.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/RestSharp.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/XUMM.NET.SDK.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.AssemblyReference.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfoInputs.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.AssemblyInfo.cs
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CoreCompileInputs.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets/msbuild.UnityXUMMAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.UnityXUMMAPI.props
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.UnityXUMMAPI.props
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.UnityXUMMAPI.props
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/scopedcss/bundle/UnityXUMMAPI.styles.css
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.csproj.CopyComplete
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/refint/UnityXUMMAPI.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.pdb
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/UnityXUMMAPI.genruntimeconfig.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/UnityXUMMAPI/obj/Debug/net6.0/ref/UnityXUMMAPI.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.csproj.AssemblyReference.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.AssemblyInfoInputs.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.AssemblyInfo.cs
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.csproj.CoreCompileInputs.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\refint\UnityXUMMAPI.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.pdb
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\appsettings.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.exe
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\JsonFile\Status.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.deps.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.runtimeconfig.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.pdb
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\AustinHarris.JsonRpc.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\XUMM.NET.SDK.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\SharedLibrary.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\scopedcss\bundle\UnityXUMMAPI.styles.css
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.csproj.CopyComplete
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.genruntimeconfig.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\UnityXUMMAPI\obj\Debug\net6.0\ref\UnityXUMMAPI.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.exe
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\JsonFile\Status.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.deps.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.runtimeconfig.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\UnityXUMMAPI.pdb
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\AustinHarris.JsonRpc.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\XUMM.NET.SDK.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.csproj.AssemblyReference.cache
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.AssemblyInfoInputs.cache
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.AssemblyInfo.cs
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.csproj.CoreCompileInputs.cache
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\scopedcss\bundle\UnityXUMMAPI.styles.css
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.csproj.CopyComplete
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\refint\UnityXUMMAPI.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.pdb
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.genruntimeconfig.cache
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\ref\UnityXUMMAPI.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Status.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\obj\Debug\net6.0\UnityXUMMAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Production.Development.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Production.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Production.Staging.Development.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Production.Staging.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Staging.Development.json
+D:\Work\Outsourced\UnityXummAPI\UnityXUMMAPI\bin\Debug\net6.0\appsettings.Staging.json
