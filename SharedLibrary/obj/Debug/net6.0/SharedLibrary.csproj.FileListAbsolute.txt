@@ -1,0 +1,60 @@
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/refint/SharedLibrary.dll
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+H:/Local Repos/KEE Studios/MichaelDeon/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/refint/SharedLibrary.dll
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+C:/Users/ruwal/source/repos/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/refint/SharedLibrary.dll
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+/Users/ruwaldlichtenstein/Documents/GitHub/KEE_XUMM_Unity/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced#KEE_XUMM_Unity\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll

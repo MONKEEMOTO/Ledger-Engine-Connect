@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AygVS6zJ7aK45Y1vy8Rct31A3HA4wQIWTDClOetqPZkOYcpJMny4VrfJT2LsjgpMA2iYBzewmburJUItH41Udw==",
+  "success": true,
+  "projectFilePath": "H:\\GoogleDrive\\KEE\\REPO_Clients\\Monkee\\KEE_XUMM_Unity\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Configurations>Debug;Release;Staging;Development</Configurations>
+    
+    <!-- NB : UPDATE THE POSTBUILDEVENT FOLDER TO CORRECT FOLDER IN YOUR UNITY PROJECT SO IT AUTO-COPIES THE DLL TO THE UNITY PROJECT FOLDER WHEN THE DLL CHANGES AND IS REBUIT -->
+    <!--<PostBuildEvent>copy SharedLibrary.dll $(OutDir)..\..\..\..\XUMMUnityTest\Assets\KEEGames\DLLs\SharedLibrary.dll</PostBuildEvent>-->
+    
+  </PropertyGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+	</ItemGroup>
+
+</Project>

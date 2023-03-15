@@ -1,0 +1,12 @@
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\bin\Release\net6.0\SharedLibrary.deps.json
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\bin\Release\net6.0\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\bin\Release\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\refint\SharedLibrary.dll
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\SharedLibrary.pdb
+D:\Work\Outsourced\UnityXummAPI\SharedLibrary\obj\Release\net6.0\ref\SharedLibrary.dll
